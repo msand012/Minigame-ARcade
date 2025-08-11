@@ -30,8 +30,6 @@ from time import sleep
 from sys import stdout
 ```
 If these are not installed, then run in Replit
-## Support
-Email: msand10@ocdsb.ca
 
 ## Sources
 #### Bibliography
